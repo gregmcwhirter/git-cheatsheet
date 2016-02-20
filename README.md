@@ -233,7 +233,7 @@ Show changes:
 `git log -p`
 
 Show every commit since special commit for custom file only:
-`git log 6eb715d.. index.html`
+`git log 6eb315d.. index.html`
 
 Show changes of every commit since special commit for custom file only:
 `git log -p 6eb715d.. index.html`
