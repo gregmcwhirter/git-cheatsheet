@@ -291,7 +291,7 @@ Blame:
 
 
 Releases & Version Tags
------------
+---------------
 
 Show all released versions:
 `git tag`
