@@ -356,7 +356,7 @@ Merge fetched commits:
 
 Clone to localhost:
 `git clone https://github.com/user/project.git` or:
-`git clone ssh://user@domain.com/~/dir/.git`
+`git clone ssh://username@domain.com/~/dir/.git`
 
 Clone to localhost folder:
 `git clone https://github.com/user/project.git ~/dir/folder`
