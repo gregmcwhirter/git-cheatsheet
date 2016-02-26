@@ -373,12 +373,6 @@ Archive
 Create a zip-archive: `git archive --format zip --output filename.zip master`
 
 
-Troubleshooting
------------
-
-Ignore files that have already been committed to a Git repository: http://stackoverflow.com/a/1139797/1815847
-
-
 Security
 -----------
 
