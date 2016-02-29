@@ -366,25 +366,3 @@ Clone specific branch to localhost:
 
 Delete remote branch (push nothing):
 `git push origin --delete branchname`
-
-
-Archive
------------
-Create a zip-archive: `git archive --format zip --output filename.zip master`
-
-
-Security
------------
-
-Hide Git on the web via `.htaccess`: `RedirectMatch 404 /\.git` 
-(more info here: http://stackoverflow.com/a/17916515/1815847)
-
-
-Large File Storage
------------
-
-Website: https://git-lfs.github.com/
-
-Install: `brew install git-lfs`
-
-Track `*.psd` files: `git lfs track "*.psd"` (init, add, commit and push as written above)
