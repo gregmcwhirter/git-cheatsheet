@@ -303,7 +303,7 @@ Create release version:
 `git tag v0.6.0`
 
 Create release version with comment:
-`git tag -a v1.0.0 -m 'Message'`
+`git tag -a v1.2.0 -m 'the message'`
 
 Checkout a specific release version:
 `git checkout v1.0.0`
