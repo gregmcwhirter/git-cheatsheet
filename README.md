@@ -287,7 +287,7 @@ Useful comparings:
 `git diff --stat --summary 6eb714d..HEAD`
 
 Blame:
-`git blame -L10,+1 index.html`
+`git blame -L12,+1 index.html`
 
 
 Releases & Version Tags
