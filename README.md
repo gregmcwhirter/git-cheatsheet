@@ -269,7 +269,7 @@ Compare branches like above:
 Compare commits:
 `git diff 6eb715d`
 `git diff 6eb715d..HEAD`
-`git diff 6eb715d..537a09f`
+`git diff 6eb715d..538a09f`
 
 Compare commits of file:
 `git diff 6eb715d index.html`
