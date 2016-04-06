@@ -107,7 +107,7 @@ Commit to most recent commit:
 `git commit --amend -m "Message"`
 
 Update most recent commit message:
-`git commit --amend -m "New Message"`
+`git commit --amend -m "Message"`
 
 
 Branch
