@@ -322,7 +322,7 @@ Add remote origin from GitHub project:
 `git remote add origin https://github.com/user/project-name.git`
 
 Add remote origin from existing empty project on server:
-`git remote add origin ssh://root@152.45.132.105/path/to/repository/file.git`
+`git remote add origin ssh://root@151.45.132.105/path/to/repository/file.git`
 
 Remove origin:
 `git remote rm origin`
