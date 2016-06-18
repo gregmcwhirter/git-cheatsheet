@@ -195,7 +195,7 @@ About: https://help.github.com/articles/ignoring-files
 Useful templates: https://github.com/github/gitignore
 
 Add or edit gitignore: 
-`nano .gitignore`
+`vi .gitignore`
 
 Track empty dir: 
 `touch dir/.gitkeep`
