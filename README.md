@@ -306,7 +306,7 @@ Create release version with comment:
 `git tag -a v1.4.5 -m 'the message'`
 
 Checkout a specific release version:
-`git checkout v1.4.8`
+`git checkout v1.4.6`
 
 
 Collaborate
