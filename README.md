@@ -219,8 +219,8 @@ Show oneline-summary of the last three commits:
 Show only custom commits:
 `git log --author="Oscar"`
 `git log --grep="Message"`
-`git log --until=2015-01-01`
-`git log --since=2015-01-01`
+`git log --until=2016-01-01`
+`git log --since=2016-01-01`
 
 Show only custom data of commit:
 `git log --format=short`
