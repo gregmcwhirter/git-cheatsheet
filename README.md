@@ -300,10 +300,10 @@ Show all released versions with comments:
 `git tag -l -n1`
 
 Create release version:
-`git tag v0.4.5`
+`git tag v0.4.2`
 
 Create release version with comment:
-`git tag -a v1.4.5 -m 'the message'`
+`git tag -a v1.4.2 -m 'the message'`
 
 Checkout a specific release version:
 `git checkout v1.4.2`
