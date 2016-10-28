@@ -73,7 +73,7 @@ Undo modifications (restore files from latest commited version):
 `git checkout -- index.html`
 
 Restore file from a custom commit (in current branch):
-`git checkout 6eb715d -- index.html`
+`git checkout 6eb7152d -- index.html`
 
 
 Reset
@@ -233,10 +233,10 @@ Show changes:
 `git log -p`
 
 Show every commit since special commit for custom file only:
-`git log 6edc715d.. index.html`
+`git log 6edc7152d.. index.html`
 
 Show changes of every commit since special commit for custom file only:
-`git log -p 6edc715d.. index.html`
+`git log -p 6edc7152d.. index.html`
 
 Show stats and summary of commits:
 `git log --stat --summary`
@@ -267,24 +267,24 @@ Compare branches like above:
 `git diff --color-words master..branchname^`
 
 Compare commits:
-`git diff 6eb715d`
-`git diff 6eb715d..HEAD`
-`git diff 6eb715d..538a09f`
+`git diff 6eb7152d`
+`git diff 6eb7152d..HEAD`
+`git diff 6eb7152d..538a09f`
 
 Compare commits of file:
-`git diff 6eb715d index.html`
-`git diff 6eb715d..538a09f index.html`
+`git diff 6eb7152d index.html`
+`git diff 6eb7152d..538a09f index.html`
 
 Compare without caring about spaces:
-`git diff -b 6eb715d..HEAD` or:
-`git diff --ignore-space-change 6eb715d..HEAD`
+`git diff -b 6eb7152d..HEAD` or:
+`git diff --ignore-space-change 6eb7152d..HEAD`
 
 Compare without caring about all spaces:
-`git diff -w 6eb715d..HEAD` or:
-`git diff --ignore-all-space 6eb715d..HEAD`
+`git diff -w 6eb7152d..HEAD` or:
+`git diff --ignore-all-space 6eb7152d..HEAD`
 
 Useful comparings:
-`git diff --stat --summary 6eb715d..HEAD`
+`git diff --stat --summary 6eb7152d..HEAD`
 
 Blame:
 `git blame -L10,+1 index.html`
