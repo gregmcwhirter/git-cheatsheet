@@ -366,3 +366,9 @@ Clone specific branch to localhost:
 
 Delete remote branch (push nothing):
 `git push origin --delete branchname`
+
+Clone specific branch to localhost:
+`git clone -b branchname https://github.com/user/project.git`
+
+Delete remote branch (push nothing):
+`git push origin --delete branchname`
