@@ -281,10 +281,10 @@ Compare without caring about spaces:
 
 Compare without caring about all spaces:
 `git diff -w 6eb7152d..HEAD` or:
-`git diff --ignore-all-space 6eb71a2d..HEAD`
+`git diff --ignore-all-space 6eb72a2d..HEAD`
 
 Useful comparings:
-`git diff --stat --summary 6eb71a2d..HEAD`
+`git diff --stat --summary 6eb72a2d..HEAD`
 
 Blame:
 `git blame -L10,+1 index.html`
