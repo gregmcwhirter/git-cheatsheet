@@ -280,7 +280,7 @@ Compare without caring about spaces:
 `git diff --ignore-space-change 6eb7152d..HEAD`
 
 Compare without caring about all spaces:
-`git diff -w 6eb7152d..HEAD` or:
+`git diff -w 6eb72a2d..HEAD` or:
 `git diff --ignore-all-space 6eb72a2d..HEAD`
 
 Useful comparings:
