@@ -267,9 +267,9 @@ Compare branches like above:
 `git diff --color-words master..branchname^`
 
 Compare commits:
-`git diff 6eb7152d`
-`git diff 6eb7152d..HEAD`
-`git diff 6eb7152d..538a09f`
+`git diff 6eb72a2d`
+`git diff 6eb72a2d..HEAD`
+`git diff 6eb72a2d..538a09f`
 
 Compare commits of file:
 `git diff 6eb72a2d index.html`
