@@ -269,11 +269,11 @@ Compare branches like above:
 Compare commits:
 `git diff 6eb72a2d`
 `git diff 6eb72a2d..HEAD`
-`git diff 6eb72a2d..538a09f`
+`git diff 6eb72a2d..538a08e`
 
 Compare commits of file:
 `git diff 6eb72a2d index.html`
-`git diff 6eb72a2d..538a09f index.html`
+`git diff 6eb72a2d..538a08e index.html`
 
 Compare without caring about spaces:
 `git diff -b 6eb72a2d..HEAD` or:
