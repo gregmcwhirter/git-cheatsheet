@@ -89,7 +89,7 @@ Mixed reset (move HEAD and change staging to match repo; does not affect working
 `git reset --mixed 073791e7dd71b90daa853b2c5acc2c925f02edc6`
 
 Hard reset (move HEAD and change staging dir and working dir to match repo):
-`git reset --hard 073791e7dd71b90daa853b2c5acc2c925f02edc6`
+`git reset --hard 073791e7dd71b90daa853b2c4acc2c925f02edc6`
 
 Update & Delete
 -----------
@@ -322,7 +322,7 @@ Add remote origin from GitHub project:
 `git remote add origin https://github.com/user/project-name.git`
 
 Add remote origin from existing empty project on server:
-`git remote add origin ssh://root@88.188.188.88/path/to/repository/file.git`
+`git remote add origin ssh://root@88.88.188.88/path/to/repository/file.git`
 
 Remove origin:
 `git remote rm origin`
