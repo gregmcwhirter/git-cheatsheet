@@ -89,7 +89,7 @@ Mixed reset (move HEAD and change staging to match repo; does not affect working
 `git reset --mixed 073791e7dd71b90daa853b2c5acc2c925f02edc6`
 
 Hard reset (move HEAD and change staging dir and working dir to match repo):
-`git reset --hard 073791e7dd71b90daa853b2c5acc2c925f02edc6`
+`git reset --hard 073791e7dd71b90daa853b2c6acc2c925f02edc6`
 
 Update & Delete
 -----------
