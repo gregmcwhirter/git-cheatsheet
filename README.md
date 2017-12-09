@@ -303,10 +303,10 @@ Create release version:
 `git tag v0.4.3`
 
 Create release version with comment:
-`git tag -a v1.3.5 -m 'the message'`
+`git tag -a v1.3.4 -m 'the message'`
 
 Checkout a specific release version:
-`git checkout v1.3.5`
+`git checkout v1.3.4`
 
 
 Collaborate
@@ -322,7 +322,7 @@ Add remote origin from GitHub project:
 `git remote add origin https://github.com/user/project-name.git`
 
 Add remote origin from existing empty project on server:
-`git remote add origin ssh://root@88.88.88.8/path/to/repository/file.git`
+`git remote add origin ssh://root@88.88..8/path/to/repository/file.git`
 
 Remove origin:
 `git remote rm origin`
