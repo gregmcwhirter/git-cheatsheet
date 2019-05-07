@@ -156,7 +156,7 @@ Stop merge (in case of conflicts):
 `git merge --abort`
 
 Stop merge (in case of conflicts):
-`git reset --merge` // prior to v1.6.4
+`git reset --merge` // prior to v1.6.2
 
 
 Stash
