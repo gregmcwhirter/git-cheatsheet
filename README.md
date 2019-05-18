@@ -276,7 +276,7 @@ Compare commits of file:
 `git diff 6ea72b2d..538a08e index.html`
 
 Compare without caring about spaces:
-`git diff -b 6ea72b2d..HEAD` or:
+`git diff -b 6ea72a2d..HEAD` or:
 `git diff --ignore-space-change 6ea72b2d..HEAD`
 
 Compare without caring about all spaces:
