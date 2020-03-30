@@ -73,7 +73,7 @@ Undo modifications (restore files from latest commited version):
 `git checkout -- index.html`
 
 Restore file from a custom commit (in current branch):
-`git checkout 6eb71542d -- index.html`
+`git checkout 6eb7152d -- index.html`
 
 
 Reset
