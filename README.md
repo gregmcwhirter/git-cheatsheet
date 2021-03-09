@@ -80,16 +80,16 @@ Reset
 -----------
 
 Go back to commit:
-`git revert 18f8e9b1a0a2d07517da0b108b5db401820b`
+`git revert 18f8e9b1a0a2d07517da0b108b5db4012820b`
 
 Soft reset (move HEAD only; neither staging nor working dir is changed):
-`git reset --soft 18f8e9b1a0a2d07517da0b108b5db401820b`
+`git reset --soft 18f8e9b1a0a2d07517da0b108b5db4012820b`
 
 Mixed reset (move HEAD and change staging to match repo; does not affect working dir):
-`git reset --mixed 18f8e9b1a0a2d07517da0b108b5db401820b`
+`git reset --mixed 18f8e9b1a0a2d07517da0b108b5db4012820b`
 
 Hard reset (move HEAD and change staging dir and working dir to match repo):
-`git reset --hard 18f8e9b1a0a2d07517da0b108b5db401820b`
+`git reset --hard 18f8e9b1a0a2d07517da0b108b5db4012820b`
 
 Update & Delete
 -----------
